@@ -1,0 +1,15 @@
+./" Manpage for simple_shell
+.TH man 1 "23 October 2021" "1.0" "simple_shell man page"
+6.SH NAME
+simple_shell -passes betty checks
+.SH SYNOPSIS
+simple_shell [optional argument] [optionnal argument]
+.SH DESCRIPTION
+your_fonction is a function which .....                                         .SH OPTIONS                                                                     your_fonction does not take any options
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+written by Ayomide Olabisi(88332379+Ayornuel@users.noreply.github.com) and
+Moses Njau(scadmsez@gmail.com)
+.SH REPORTING BUGS
+simple_shell
